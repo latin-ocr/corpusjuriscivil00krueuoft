@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusjuriscivil00krueuoft_0783.png"; bbox 0 0 2476 3854; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 1347 2112 1613">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 1347 2112 1613">
+     <span class='ocr_line' id='line_1_1' title="bbox 541 1347 1839 1448; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 541 1348 1217 1448; x_wconf 83' lang='lat' dir='ltr'>CORPORIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1305 1347 1839 1448; x_wconf 80' lang='lat' dir='ltr'>CLXVIII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 257 1520 2112 1613; baseline 0.002 -5"><span class='ocrx_word' id='word_1_3' title='bbox 257 1520 1170 1612; x_wconf 83' lang='lat' dir='ltr'><strong>NOVELLARUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1237 1523 2112 1613; x_wconf 80' lang='lat' dir='ltr'>APPENDIOES.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 448 1791 1901 1991">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 448 1791 1901 1991">
+     <span class='ocr_line' id='line_1_3' title="bbox 475 1791 1901 1864; baseline 0.002 -12"><span class='ocrx_word' id='word_1_5' title='bbox 475 1793 513 1852; x_wconf 92' lang='lat' dir='ltr'>I.</span> <span class='ocrx_word' id='word_1_6' title='bbox 558 1792 903 1854; x_wconf 88' lang='lat' dir='ltr'>IUSTINIANI</span> <span class='ocrx_word' id='word_1_7' title='bbox 939 1795 1067 1855; x_wconf 88' lang='lat' dir='ltr'>XIII</span> <span class='ocrx_word' id='word_1_8' title='bbox 1102 1791 1325 1855; x_wconf 86' lang='lat' dir='ltr'>EDICTA</span> <span class='ocrx_word' id='word_1_9' title='bbox 1362 1793 1522 1864; x_wconf 85' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1558 1794 1901 1855; x_wconf 86' lang='lat' dir='ltr'>VOCANTUR.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 448 1928 1900 1991; baseline 0.002 -5"><span class='ocrx_word' id='word_1_11' title='bbox 448 1928 513 1986; x_wconf 91' lang='lat' dir='ltr'>II.</span> <span class='ocrx_word' id='word_1_12' title='bbox 551 1928 865 1987; x_wconf 84' lang='lat' dir='ltr'>APPENDIX</span> <span class='ocrx_word' id='word_1_13' title='bbox 900 1928 1423 1991; x_wconf 84' lang='lat' dir='ltr'>CONSTITUTIONUM</span> <span class='ocrx_word' id='word_1_14' title='bbox 1459 1929 1900 1990; x_wconf 82' lang='lat' dir='ltr'>DISPERSARUM.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
